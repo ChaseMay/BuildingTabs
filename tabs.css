@@ -1,0 +1,13 @@
+div.nav-tab {
+    background-color: yellow;
+    border-style: solid;
+}
+
+href.navigation {
+  text-decoration: none;
+  background-color: blue;
+}
+
+div:hover {
+    background-color: rgb(255, 202, 0);
+}
